@@ -1,8 +1,7 @@
 # simple-todo-list
 
-link here :  https://bogdannb34.github.io/simple-todo-list/
-
 Learning JavaScript with a To Do List
+- link here :  https://bogdannb34.github.io/simple-todo-list/
 
 # Goodbye post-its!
 
